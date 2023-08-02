@@ -5,4 +5,4 @@ This paper is an exploration of a pair of novel related Jailbreak techniques. Th
 
 **DISCLAIMER:** I am not an expert in the field! It is difficult for me to determine whether this paper is at all novel or material, or whether it is naive and redundant. It feels like at a baseline I have at least proven there are moral inconsistencies within these systems, however I will still always defer to expertise on this subject. Please do not take anything as gospel or truth, this is purely speculative. 
 
-**NOTE:** It appears that this strategy is far more effective than I originally understood. I have posted additional conversations in the Addendums folder, that contain concerning and material information that far exceeds what I previously thought was possible. Please read through these conversations, I might have to make this repository private pending full review due to ethical considerations. 
+
